@@ -52,3 +52,19 @@ Contributions are welcome!
 ## 📄 License
 
 This project is currently under development.
+
+## 📌 Development Status
+
+The project is currently under active development.
+
+### Upcoming Improvements
+
+- Improve groundwater data visualization.
+- Enhance backend API documentation.
+- Organize frontend and backend modules.
+- Improve application usability.
+
+## 🔄 Development Workflow
+
+This project follows a Git-based collaboration workflow using feature branches and Pull Requests.
+
