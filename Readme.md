@@ -67,4 +67,18 @@ The project is currently under active development.
 ## 🔄 Development Workflow
 
 This project follows a Git-based collaboration workflow using feature branches and Pull Requests.
+## 📖 Usage Guide
+
+Users will be able to:
+
+- Access groundwater-related information.
+- Explore available groundwater data.
+- View analytical insights.
+- Interact with the application's features.
+
+## 🔮 Future Scope
+
+- Real-time groundwater monitoring.
+- Advanced analytics and reporting.
+- Improved data visualization.
 
